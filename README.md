@@ -21,3 +21,6 @@
 ### 🚀 Building Real-World AI Applications
 
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
