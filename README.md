@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shekhawat-dev/shekhawat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Devraj Singh Shekhawat
 
-Here are some ideas to get you started:
+### AI Engineer • Python Developer • Generative AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Building intelligent systems with AI, FastAPI & LLMs
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devraj-singh-shekhawat-7b26b4313)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrajsingh9160@gmailcom)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Real-World AI Applications
+
+</div>
